@@ -20,5 +20,6 @@
   "dependencies": {
     "sirv-cli": "^2.0.0",
     "three": "^0.145.0"
-  }
+  },
+  "type": "my_cube"
 }
